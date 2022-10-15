@@ -1,0 +1,9 @@
+if(a==9){                                                                                                                                                                                                         
+        cout<<"9 is the number";
+}                                                                                                                                                                                                                 
+else if(a==10){                                                                                                                                                                                                   
+        cout<<"10 is the number";                                                                                                                                                                                 
+}                                                                                                                                                                                                                 
+else if(a==8){                                                                                                                                                                                                    
+        cout<<"8 is the number";                                                                                                                                                                                  
+}
